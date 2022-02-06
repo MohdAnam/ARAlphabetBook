@@ -3,6 +3,8 @@
 - It create a more engaging learning atmosphere With such an ecosystem, students become more engaged in their learning that will ultimately Boost the number of Students in School.
 - It will help students understand their lessons better and faster.
 
+
+# Screenshots
 <img src="https://user-images.githubusercontent.com/98106477/152679500-684b7eff-7b3d-4b9f-8bf6-01742d72d095.jpg "  width="300" height="350">
 <img src="https://user-images.githubusercontent.com/98106477/152679579-e14bbeea-d642-41f2-98ce-9dde78960a7d.jpg "  width="300" height="350">
 <img src="https://user-images.githubusercontent.com/98106477/152679610-b5f2fff9-4d4f-4cb1-b817-b483a3ab3b27.jpg "  width="300" height="350">
