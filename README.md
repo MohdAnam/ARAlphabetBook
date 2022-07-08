@@ -1,5 +1,5 @@
 # ARAlphabetBook
-- This Application focuses on augmenting  3d Models related to Alphabet on physical Alphabet Book using unity(C#) and vuforia .
+- This Application focuses on augmenting  3d Models related to Alphabet on physical Alphabet Book using unity 3D and vuforia .
 - It create a more engaging learning atmosphere With such an ecosystem, students become more engaged in their learning that will ultimately Boost the number of Students in School.
 - It will help students understand their lessons better and faster.
 
